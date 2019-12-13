@@ -101,7 +101,7 @@ class QuadraticCalcState extends State<QuadraticCalc>{
               //Make it into a single answer variable
               answer = "$posAnswer, $negAnswer";
             } else {
-
+              //TODO: Setup complex solutions
             }
           }
         }
